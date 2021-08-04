@@ -1,0 +1,12 @@
+.btn-primary{
+    border: none;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.jumbotron{
+    background-image: url(Images/themes.jpg);
+    color: aliceblue;
+}
